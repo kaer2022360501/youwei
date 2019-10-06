@@ -1,0 +1,45 @@
+/* @charset "utf-8";
+/* CSS Document */
+html{font-size:26.67vw;}
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img { margin:0; padding:0; }
+
+fieldset, c{ border:none; }
+
+img{display: block;}
+
+address, caption, cite, code, dfn, th, var { font-style:normal; font-weight:normal; }
+
+ul, ol ,li{ list-style:none; }
+
+body { color:#333; font:12px "SimSun","宋体","Arial Narrow",HELVETICA; background:#fff;font-weight:300;font-family: sans-serif, "Apple SD Gothic Neo", "Malgun Gothic", Dotum, Gulim, "Helvetica Neue", Helvetica, Roboto, Arial;}
+
+
+a { color:#666; text-decoration:none; }
+/*清除浮动*/
+.clear{clear:both}
+*{box-sizing:border-box}
+body,html{
+    height: 100%;
+    background:#fff !important;
+} */
+p,h1,h2,h3,h4,h5,h6,ol,ul,dl,td,dd,tr,input,body,figure{margin:0;padding:0;}
+html,body{height: 100%;}
+li{list-style:none;}
+a{text-decoration:none;color:#333;}
+img{display:block;border:none;}
+h1,h2,h3,h4,h5,h6,b,strong,i{font-weight:normal;}
+i,em{font-style:normal;}
+body{font-size:14px;}
+input{outline:none;}
+input{border:none;}
+.clear:after{
+	content:"";
+	display:block;
+	clear:both;
+	height:0;
+	visibility:hidden;	
+}
+.border0{border:none;};
+
+
+
